@@ -77,4 +77,4 @@ LICENSE
 HOSTING
 ------------------------------------------------------------------------------
 
-  Hosted on Sevalla (sevalla.com)
+  Hosted on Sevalla: https://sevalla.com
